@@ -1,0 +1,22 @@
+v 4
+file . "relojdigital.vhdl" "c8958a71069e8aafd79e4370ad25253011047751" "20200316232703.265":
+  entity relojdigital at 1( 0) + 0 on 27;
+  architecture behav of relojdigital at 7( 92) + 0 on 28;
+file . "comphoras.vhdl" "9fc6e015b905525eb88d726aff51fc82a05ec0cf" "20200316232401.785":
+  entity comphoras at 1( 0) + 0 on 19;
+  architecture behav of comphoras at 12( 291) + 0 on 20;
+file . "contador0a9.vhdl" "d22e801cb7e27d3a45525b17cc551eb97f28f359" "20200316232401.693":
+  entity contador0a9 at 1( 0) + 0 on 15;
+  architecture behav of contador0a9 at 13( 286) + 0 on 16;
+file . "flipflopjk.vhdl" "fdab1dc3f39f462f3b8680c2db45a897a67323f0" "20200316232401.582":
+  entity flipflopjk at 1( 0) + 0 on 11;
+  architecture behav of flipflopjk at 13( 262) + 0 on 12;
+file . "contador4bits.vhdl" "98a3889e09710a172135196d6f4fd0da45c6de84" "20200316232401.631":
+  entity contador4bits at 1( 0) + 0 on 13;
+  architecture behav of contador4bits at 13( 278) + 0 on 14;
+file . "divisor60a1.vhdl" "9655b8fb592cb56568f3e4c2ed9038810cb106f1" "20200316232401.739":
+  entity divisor60a1 at 1( 0) + 0 on 17;
+  architecture behav of divisor60a1 at 11( 184) + 0 on 18;
+file . "compminsec.vhdl" "9b0bb734ed942f80183f04e32d5d228b4b70811f" "20200316232401.832":
+  entity compminsec at 1( 0) + 0 on 21;
+  architecture behav of compminsec at 12( 296) + 0 on 22;
