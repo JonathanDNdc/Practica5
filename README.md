@@ -1,4 +1,4 @@
-# Práctica 4
+# Práctica 5
 
 ## Codigo
 En la carpeta codigo se encuentran siete archivos en los cuales se describen componentes en VHDL.
